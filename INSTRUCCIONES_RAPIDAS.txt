@@ -1,0 +1,10 @@
+1) Descomprime el ZIP.
+2) Instala Node.js.
+3) En la carpeta ejecuta: npm install
+4) Copia .env.example a .env
+5) Pon tus credenciales PayPal LIVE en .env (NO las compartas conmigo).
+6) Añade tus archivos finales dentro de downloads/productos/.
+7) Ejecuta: npm start
+8) Abre: http://localhost:3000
+
+NOTA: el Client Secret nunca debe estar dentro de public/ ni en el HTML.
